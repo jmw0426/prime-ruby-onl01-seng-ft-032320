@@ -11,7 +11,7 @@
 def prime?(n)
   return false if n < 2
 
-  (2..n/2).none?{|i| n % i == 0}
+  (2..n/2).none?{|x| n % x == 0}
 end
   
   
