@@ -1,1 +1,3 @@
-def prime?(array)
+def prime?(number)
+  
+  
