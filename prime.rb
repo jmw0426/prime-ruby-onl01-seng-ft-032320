@@ -1,5 +1,5 @@
 def prime?(number)
-  range = (1..Float::INFINITY)
+  range = (-1..Float::INFINITY)
   end
     
   
